@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/8309048/detsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="detsup" height="30" width="40" /></a>
 <a href="https://hashnode.com/iamdetsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="iamdetsup" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/detsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="detsup" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/devansh0112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="devansh0112" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/devansh0112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="devansh0112" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
