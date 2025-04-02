@@ -1,6 +1,6 @@
 # Hi there, I'm Devansh Srivastava! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=devansh-srivastava&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Devansh0112&color=blue)
 
 🚀 **Software Engineer | Blockchain Enthusiast | AI & Fintech Innovator**
 
@@ -33,7 +33,7 @@
 - 📈 **ETF Analysis App** - Java Spring Boot & React-based app tracking ETF correlations
 - 🔐 **Encrypted Messaging App** - Blockchain-powered secure communication with payments integration
 
-📌 *More projects on my [GitHub](https://github.com/devansh-srivastava)*
+📌 *More projects on my [GitHub](https://github.com/Devansh0112)*
 
 ---
 
