@@ -44,8 +44,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Srivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-srivastava/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Devansh's_Site-orange?style=for-the-badge&logo=google-chrome)](https://devansh-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Srivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srivastava-devansh/) 
 
 ✨ *Let's innovate together!* 🚀
 
