@@ -33,7 +33,7 @@
 - 📈 **ETF Analysis App** - Java Spring Boot & React-based app tracking ETF correlations
 - 🔐 **Encrypted Messaging App** - Blockchain-powered secure communication with payments integration
 
-📌 *More projects on my ![GitHub](https://github.com/Devansh0112?tab=repositories)
+📌 *More projects on my [GitHub](https://github.com/Devansh0112?tab=repositories)*
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Srivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srivastava-devansh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Srivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srivastava-devansh/)  
 
 ✨ *Let's innovate together!* 🚀
 
