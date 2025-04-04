@@ -9,9 +9,9 @@
 ## 🌟 About Me
 - 🎓 MS in Computer Software Engineering @ Northeastern University (Graduating May 2025)
 - 💻 5 years of experience as a Full Stack Engineer
-- 🔗 Passionate about **Blockchain, Fintech, AI, and Distributed Systems**
-- 🎯 Exploring **Technical Business Analysis & Entrepreneurship**
-- ✨ Currently building **finance & AI-driven projects**
+- 🔗 Passionate about **Backend development, Blockchain, AI, and Distributed Systems**
+- 🎯 Exploring **Decentralized AI & Small Language Models**
+- ✨ Currently building **AI-driven projects**
 
 ---
 
