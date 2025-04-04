@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 - 🎓 MS in Computer Software Engineering @ Northeastern University (Graduating May 2025)
-- 💻 3+ years as a Full Stack Engineer at Dell Technologies
+- 💻 5 years of experience as a Full Stack Engineer
 - 🔗 Passionate about **Blockchain, Fintech, AI, and Distributed Systems**
 - 🎯 Exploring **Technical Business Analysis & Entrepreneurship**
 - ✨ Currently building **finance & AI-driven projects**
