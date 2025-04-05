@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh0112&color=blue)
 
-🚀 **Software Engineer | Blockchain Enthusiast | AI & Fintech Innovator**
+🚀 **Fullstack Software Engineer | Blockchain Enthusiast | AI Innovator**
 
 ---
 
