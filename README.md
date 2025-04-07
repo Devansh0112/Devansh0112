@@ -1,4 +1,4 @@
-# Hi there, I'm Devansh Srivastava! 👋
+# Hi there, I'm Devansh Srivastava!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Devansh0112&color=blue)
 
